@@ -1,0 +1,5 @@
+{
+  "name": "3-Way Partition Interactive Trace",
+  "description": "An interactive educational tool to visualize and manually step through the 3-way partition algorithm (Dutch National Flag) with draggable-like swapping and pointer controls.",
+  "requestFramePermissions": []
+}
